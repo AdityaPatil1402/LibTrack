@@ -104,7 +104,7 @@ What works in Phase 2:
 - Profile page: change full name, email and phone (the username is permanent) and change your password.
 - Changing your password signs you out on every other device. Several devices can be signed in at once.
 - Sessions end after 30 minutes without activity. Signing in again returns you to the page you were on.
-- `/dashboard` and `/profile` need a sign-in; the dashboard is a placeholder until Phase 3.
+- `/dashboard` and `/profile` need a sign-in; the Dashboard is a placeholder until Phase 3.
 
 ## Tests
 
